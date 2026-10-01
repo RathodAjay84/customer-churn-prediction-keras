@@ -1,8 +1,3 @@
-👍 Got it bro — here’s your highly professional, resume-level README (clean, structured, and strong for GitHub + recruiters)
-
-📄 README.md
-Customer Churn Prediction using Deep Learning (Keras)
-
 📌 Project Overview
 Customer churn is one of the most critical challenges in the telecom industry. It refers to customers discontinuing services and switching to competitors. Accurately predicting churn enables companies to take proactive retention measures, reducing revenue loss.
 This project builds a robust churn prediction system using Artificial Neural Networks (ANN) with Keras. It demonstrates a complete end-to-end machine learning pipeline — from data preprocessing and visualization to model building, evaluation, and performance improvement.
